@@ -61,7 +61,7 @@ nbformat==4.4.0
 networkx==2.5
 notebook==6.1.5
 numba==0.44.1
-numpy==1.19.2
+numpy==1.22.0
 nvidia-dali==0.13.0
 nvidia-dali-tf-plugin==0.13.0
 opencv-python==4.2.0.34
